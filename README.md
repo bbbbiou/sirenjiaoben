@@ -83,14 +83,13 @@ docker-compose up -d
 
 ```
 
-## XrayR不支持在线编辑
-建议使用Finalshell或者FTP
+## 编辑config.yml
 
 ```markdown
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, , Proxypanel
     ApiConfig:
-      ApiHost: "https://www.cfcloud.icu"
+      ApiHost: "https://www.xxxxx.com"
       ApiKey: "3KKUS2CS7C5Z9YGK"
       NodeID: 2
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
