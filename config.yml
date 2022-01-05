@@ -7,9 +7,9 @@ Nodes:
   -
     PanelType: "SSpanel" # Panel type: SSpanel
     ApiConfig:
-      ApiHost: "https://www.sspanel.tk"
-      ApiKey: "sspanel.tk"
-      NodeID: 41
+      ApiHost: "https://chenfeng.one"
+      ApiKey: "666666"
+      NodeID: 66
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request, Default is 5 sec
       EnableVless: false # Enable Vless for V2ray Type, Prefer remote configuration
