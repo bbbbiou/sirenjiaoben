@@ -5,11 +5,11 @@ Log:
 DnsConfigPath: # ./dns.json  Path to dns config
 Nodes:
   -
-    PanelType: "SSpanel" # Panel type: SSpanel
+    PanelType: "V2board" # Panel type: SSpanel,V2board
     ApiConfig:
-      ApiHost: "https://chenfeng.one"
-      ApiKey: "666666"
-      NodeID: 66
+      ApiHost: "https://xxxxxx.xxx"
+      ApiKey: "8888888888888888"
+      NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request, Default is 5 sec
       EnableVless: false # Enable Vless for V2ray Type, Prefer remote configuration
