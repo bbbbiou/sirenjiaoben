@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "SSpanel" # Panel type: SSpanel,V2board
     ApiConfig:
-      ApiHost: "https://xxxxxx.xxx"
-      ApiKey: "8888888888888888"
+      ApiHost: "https://dingyue.xiuling.buzz"
+      ApiKey: "SASAHSDKJLHAKLS"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request, Default is 5 sec
