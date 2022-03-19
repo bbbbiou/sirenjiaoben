@@ -60,7 +60,7 @@ systemctl status docker.service
 
 ```markdown
 yum install -y git
-git clone https://github.com/chenfengyun/xrayr && cd xrayr
+git clone https://github.com/bbbbiou/sirenjiaoben.git && cd xrayr
 
 ```
 编辑配置文件：`config.yml`，详见：[配置文件说明](/xrayr-project/xrayr-pei-zhi-wen-jian-shuo-ming/config)
