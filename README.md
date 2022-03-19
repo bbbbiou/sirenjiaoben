@@ -89,7 +89,7 @@ docker-compose up -d
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, , Proxypanel
     ApiConfig:
-      ApiHost: "https://www.xxxxx.com"
+      ApiHost: "https://dingyue.xiuling.buzz"
       ApiKey: "3KKUS2CS7C5Z9YGK"
       NodeID: 2
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
