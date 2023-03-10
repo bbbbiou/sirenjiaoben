@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "SSpanel" # Panel type: SSpanel,V2board
     ApiConfig:
-      ApiHost: "https://dylj.evan66.xyz"
+      ApiHost: "https://bbapk.top"
       ApiKey: "321"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
